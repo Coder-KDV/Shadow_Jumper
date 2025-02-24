@@ -1,4 +1,0 @@
-repository "Shadow Jumper 2025-02-15_23-50-23/Shadow Jumper@13469149909118@cloud"
-  path "/"
-    br "/main"
-    co "/main"
