@@ -2,8 +2,10 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Area
   layers:
   - Default
   - TransparentFX
@@ -41,9 +43,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Perspective
+  - name: Background
     uniqueID: 3420322187
     locked: 0
-  - name: Top
+  - name: Character and Platforms
     uniqueID: 282671577
     locked: 0
+  - name: Interactables
+    uniqueID: 533165403
+    locked: 0
+  m_RenderingLayers:
+  - Default
