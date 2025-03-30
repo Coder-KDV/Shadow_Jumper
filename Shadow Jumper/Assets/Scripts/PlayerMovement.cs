@@ -18,6 +18,12 @@ public class Playermovement : MonoBehaviour
     public bool isLight = true;
 
     [SerializeField]
+    private AudioClip jumpSound;
+
+    [SerializeField]
+    private AudioClip longJumpSound;
+
+    [SerializeField]
     private float speed = 1;
 
     [SerializeField]
@@ -25,6 +31,8 @@ public class Playermovement : MonoBehaviour
 
     [SerializeField]
     private float jumpForce;
+
+    private AudioSource audioSource;
 
     Rigidbody2D rbody;
     Animator anim;
@@ -36,13 +44,13 @@ public class Playermovement : MonoBehaviour
         rbody = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         rend = GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
     {
         CheckForm();
         CheckFall();
-        isSprinting = false;
         if (isGrounded)
         {
             CheckPlayerMovement();
@@ -55,6 +63,7 @@ public class Playermovement : MonoBehaviour
 
         if (move == 0 && isJumping == false && isGrounded)
         {
+            isSprinting = false;
             anim.SetFloat("Speed", 0);
             CheckJump(move);
         }
@@ -65,10 +74,12 @@ public class Playermovement : MonoBehaviour
                 if (Input.GetKey(KeyCode.LeftShift))
                 {
                     StartPlayerRun(move);
+                    isSprinting = true;
                 }
                 else
                 {
                     StartPlayerWalk(move);
+                    isSprinting = false;
                 }
                 RotatePlayer(move);
             }
@@ -99,14 +110,31 @@ public class Playermovement : MonoBehaviour
             if (transform.localScale.x < 0 && !jumpInPlace)
             {
                 rbody.AddForce(new Vector2(-ForceX, ForceY), ForceMode2D.Impulse);
+                if (ForceX == 80f)
+                {
+                    PlaySound(longJumpSound);
+                }
+                else
+                {
+                    PlaySound(jumpSound);
+                }
             }
             else if (jumpInPlace)
             {
                 rbody.AddForce(new Vector2(0, ForceY * 1.5f), ForceMode2D.Impulse);
+                PlaySound(jumpSound);
             }
             else if (transform.localScale.x > 0 && !jumpInPlace)
             {
                 rbody.AddForce(new Vector2(ForceX, ForceY), ForceMode2D.Impulse);
+                if (ForceX == 80f)
+                {
+                    PlaySound(longJumpSound);
+                }
+                else
+                {
+                    PlaySound(jumpSound);
+                }
             }
         }
     }
@@ -132,7 +160,6 @@ public class Playermovement : MonoBehaviour
 
     private void StartPlayerRun(float move)
     {
-        isSprinting = true;
         CheckJump(move);
         move *= 1.5f;
         anim.SetFloat("Speed", 0.51f);
@@ -187,5 +214,11 @@ public class Playermovement : MonoBehaviour
                 isShadow = true;
             }
         }
+    }
+
+    private void PlaySound(AudioClip clip)
+    {
+        audioSource.clip = clip;
+        audioSource.Play();
     }
 }
