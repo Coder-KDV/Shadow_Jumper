@@ -1,7 +1,6 @@
-using System;
 using UnityEngine;
 
-public class DeathZone : MonoBehaviour
+public class KillPlayer : MonoBehaviour
 {
     [SerializeField]
     private AudioClip teleportSound;
