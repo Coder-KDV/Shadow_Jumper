@@ -1,9 +1,13 @@
 using UnityEngine;
+using System.Collections;
 
 public class EnemyPatrolMovement : MonoBehaviour
 {
-    public float moveSpeed = 1f;
-    public float idleDuration = 0f; // Updated to 3 seconds
+    [SerializeField]
+    private AudioClip footstepsSound;
+
+    public float moveSpeed = 0.5f;
+    public float idleDuration = 0f;
     public Transform leftPoint;
     public Transform rightPoint;
 
@@ -14,6 +18,7 @@ public class EnemyPatrolMovement : MonoBehaviour
     private float idleTimer;
 
     private Vector3 originalScale;
+    private AudioSource audioSource;
 
     void Start()
     {
@@ -22,6 +27,9 @@ public class EnemyPatrolMovement : MonoBehaviour
 
         animator.SetBool("isWalking", true);
         animator.SetBool("isIdle", false);
+
+        audioSource = GetComponent<AudioSource>();
+        StartCoroutine(PlayFootstepsWhileWalking());
     }
 
     void Update()
@@ -63,5 +71,17 @@ public class EnemyPatrolMovement : MonoBehaviour
     {
         isIdle = true;
         transform.position = new Vector2(clampX, transform.position.y);
+    }
+
+    private IEnumerator PlayFootstepsWhileWalking()
+    {
+        while (true)
+        {
+            if (!isIdle && animator.GetBool("isWalking") && footstepsSound != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(footstepsSound);
+            }
+            yield return new WaitForSeconds(.8f);
+        }
     }
 }

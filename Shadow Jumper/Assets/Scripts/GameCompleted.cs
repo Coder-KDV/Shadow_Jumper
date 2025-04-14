@@ -1,10 +1,10 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MainMenu : MonoBehaviour
+public class GameCompleted : MonoBehaviour
 {
     [SerializeField]
-    private AudioClip confirmSound;
+    private AudioClip playSound;
 
     [SerializeField]
     private AudioClip quitSound;
@@ -14,7 +14,7 @@ public class MainMenu : MonoBehaviour
 
     public void PlayBtnClicked()
     {
-        StartCoroutine(PlaySoundAndLoadScene(confirmSound));
+        StartCoroutine(PlaySoundAndLoadScene(playSound));
     }
 
     public void QuitBtnClicked()
@@ -27,7 +27,7 @@ public class MainMenu : MonoBehaviour
         audioSource.clip = clip;
         audioSource.Play();
         yield return new WaitForSeconds(clip.length);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(1);
     }
 
     private System.Collections.IEnumerator PlaySoundAndQuit(AudioClip clip)

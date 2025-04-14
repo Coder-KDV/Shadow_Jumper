@@ -24,9 +24,6 @@ public class Playermovement : MonoBehaviour
     private AudioClip longJumpSound;
 
     [SerializeField]
-    private float speed = 1;
-
-    [SerializeField]
     private float moveSpeed = 1f;
 
     [SerializeField]
