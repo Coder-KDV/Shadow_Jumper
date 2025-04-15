@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Area
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -46,11 +47,8 @@ TagManager:
   - name: Background
     uniqueID: 3420322187
     locked: 0
-  - name: Character and Platforms
+  - name: Character, Platforms and Interactables
     uniqueID: 282671577
-    locked: 0
-  - name: Interactables
-    uniqueID: 533165403
     locked: 0
   m_RenderingLayers:
   - Default

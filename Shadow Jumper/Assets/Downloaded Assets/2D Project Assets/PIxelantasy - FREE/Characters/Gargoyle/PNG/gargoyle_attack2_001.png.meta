@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gargoyle_attack2_001_0: -3752466354748023726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

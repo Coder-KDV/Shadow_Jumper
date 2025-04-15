@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      princess_attack_002_0: -5195320844141107613
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

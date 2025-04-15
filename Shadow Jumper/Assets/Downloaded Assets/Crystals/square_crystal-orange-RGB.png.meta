@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      square_crystal-orange-RGB_0: -794428819393923868
+      square_crystal-orange-RGB_1: 7145978506960895494
+      square_crystal-orange-RGB_2: -2457420960793236523
+      square_crystal-orange-RGB_3: 8744294779768232164
+      square_crystal-orange-RGB_4: -94637246535669014
+      square_crystal-orange-RGB_5: -7015672827530531912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wizard_1_die_005_0: -1625024780201394864
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

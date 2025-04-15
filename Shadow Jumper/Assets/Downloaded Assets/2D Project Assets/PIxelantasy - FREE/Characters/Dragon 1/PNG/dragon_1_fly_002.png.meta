@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_1_fly_002_0: -8045208803313618085
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

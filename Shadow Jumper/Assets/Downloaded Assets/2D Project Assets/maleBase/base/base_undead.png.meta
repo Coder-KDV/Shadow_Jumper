@@ -1460,7 +1460,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      base_undead_0: 4774634670022053300
+      base_undead_1: -625148776314797390
+      base_undead_10: 6649682849735701717
+      base_undead_11: -1138069440251909142
+      base_undead_12: 5048040965848672678
+      base_undead_13: -4234529730689662331
+      base_undead_14: -552195924095556559
+      base_undead_15: -7260842501872325659
+      base_undead_16: 1517177044300275795
+      base_undead_17: 8126146950639041241
+      base_undead_18: 2321720965063579043
+      base_undead_19: 243149870087627353
+      base_undead_2: 6395176340391279594
+      base_undead_20: 2372662720957058049
+      base_undead_21: -5536539210389308845
+      base_undead_22: -4368964809324644460
+      base_undead_23: 9017830315170399039
+      base_undead_24: 5304263520131181415
+      base_undead_25: 3122303902406077016
+      base_undead_26: -4189758952031471936
+      base_undead_27: -8047654943757953410
+      base_undead_28: -5309484521793774753
+      base_undead_29: -1206754104849452515
+      base_undead_3: 5442603665636586926
+      base_undead_30: 8222064870223505487
+      base_undead_31: -525622269199585057
+      base_undead_32: -6283910640958907616
+      base_undead_33: 2047175933903573048
+      base_undead_34: -8439375411696877573
+      base_undead_35: 8428372294483000425
+      base_undead_36: -6541529334429143982
+      base_undead_37: 312429047654726162
+      base_undead_38: -5310396706227627907
+      base_undead_39: -4728418313975599846
+      base_undead_4: -6583113289311147318
+      base_undead_40: 4406269027516177981
+      base_undead_41: -5550141212162075146
+      base_undead_42: -6106472617947066187
+      base_undead_43: 6931272862394346644
+      base_undead_44: 8227363870246164714
+      base_undead_45: 4379519762945135687
+      base_undead_46: -6617802630501778775
+      base_undead_47: -4653936753805766751
+      base_undead_48: 3500700759154726054
+      base_undead_49: -2423991431836556320
+      base_undead_5: -875240547270570541
+      base_undead_50: 122411204352708682
+      base_undead_51: 2805386533928482325
+      base_undead_52: -7389294558023895405
+      base_undead_6: -7434361607992475988
+      base_undead_7: -9187463147168502407
+      base_undead_8: -7328703890026572896
+      base_undead_9: -1926831861512111528
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

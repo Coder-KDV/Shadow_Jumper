@@ -1460,7 +1460,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      head_hair_dark00_0: -154915351574434950
+      head_hair_dark00_1: 6550853390962674038
+      head_hair_dark00_10: 1089844589958117956
+      head_hair_dark00_11: 6438807648190105530
+      head_hair_dark00_12: 497632007841343355
+      head_hair_dark00_13: -3562595388144643920
+      head_hair_dark00_14: -2678181082268385420
+      head_hair_dark00_15: -884022446540943090
+      head_hair_dark00_16: 6776583448673749167
+      head_hair_dark00_17: 2757423140952384002
+      head_hair_dark00_18: -6996919114171174195
+      head_hair_dark00_19: -3041578923502987947
+      head_hair_dark00_2: 6409105213125960672
+      head_hair_dark00_20: -2254997007378319707
+      head_hair_dark00_21: -2307798673787114516
+      head_hair_dark00_22: 1419527520806877414
+      head_hair_dark00_23: 7675242640627963723
+      head_hair_dark00_24: 5661850521245373228
+      head_hair_dark00_25: 4975346422966082723
+      head_hair_dark00_26: 8422414724353797990
+      head_hair_dark00_27: -8683112616349491415
+      head_hair_dark00_28: 2749994691979536608
+      head_hair_dark00_29: -3817421567669549521
+      head_hair_dark00_3: 4154624509719048264
+      head_hair_dark00_30: 7514694434720977695
+      head_hair_dark00_31: -1465762143611642717
+      head_hair_dark00_32: 1057978635483120779
+      head_hair_dark00_33: -2688731406454015794
+      head_hair_dark00_34: 7463632727985929415
+      head_hair_dark00_35: -1788444234513475247
+      head_hair_dark00_36: -7305735178658311016
+      head_hair_dark00_37: 2498017746843889435
+      head_hair_dark00_38: 3043488623473815723
+      head_hair_dark00_39: 4522186665513484879
+      head_hair_dark00_4: 9181801063173060210
+      head_hair_dark00_40: -6413397105506897254
+      head_hair_dark00_41: -6099320706402271076
+      head_hair_dark00_42: 8916538098865120267
+      head_hair_dark00_43: -8595610795581744022
+      head_hair_dark00_44: -6618780667790852787
+      head_hair_dark00_45: -8789331141517031694
+      head_hair_dark00_46: -3920003145672546280
+      head_hair_dark00_47: 1506649593600374198
+      head_hair_dark00_48: -3394945954019508275
+      head_hair_dark00_49: -1142479148362490050
+      head_hair_dark00_5: 6875587063571769485
+      head_hair_dark00_50: -1617637598790163906
+      head_hair_dark00_51: 2051606169236795232
+      head_hair_dark00_52: 3506975745866596766
+      head_hair_dark00_6: 6115168226199784757
+      head_hair_dark00_7: -4066004679522901446
+      head_hair_dark00_8: 3531969458668524145
+      head_hair_dark00_9: -7113511753120148905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

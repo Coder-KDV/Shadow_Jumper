@@ -1460,7 +1460,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      head_steel_helm_0: -7429555983588975074
+      head_steel_helm_1: -5092797201271669976
+      head_steel_helm_10: 4384149918156989403
+      head_steel_helm_11: 4212534400134798038
+      head_steel_helm_12: 3470188001143967847
+      head_steel_helm_13: -6918430917222458204
+      head_steel_helm_14: -4243503086930418956
+      head_steel_helm_15: 4883371737311061290
+      head_steel_helm_16: -8168032492805392992
+      head_steel_helm_17: 5294149798607372656
+      head_steel_helm_18: -7679850683427553002
+      head_steel_helm_19: 7479018208201831988
+      head_steel_helm_2: -4707802053405762551
+      head_steel_helm_20: -965238762671511991
+      head_steel_helm_21: -1564502106323002958
+      head_steel_helm_22: -2189412799492512075
+      head_steel_helm_23: -7308669118553845847
+      head_steel_helm_24: 5459377672348481040
+      head_steel_helm_25: -3302714434230477504
+      head_steel_helm_26: 325364718319661632
+      head_steel_helm_27: -2351205002086701402
+      head_steel_helm_28: -6697875889550743180
+      head_steel_helm_29: -3604661194846504470
+      head_steel_helm_3: -3193459999836245902
+      head_steel_helm_30: 3434567680363011736
+      head_steel_helm_31: -779758861043866761
+      head_steel_helm_32: -9211647076492551590
+      head_steel_helm_33: 8159134666452126284
+      head_steel_helm_34: -3069895097669711502
+      head_steel_helm_35: 1098932649670698971
+      head_steel_helm_36: 8655219920903912825
+      head_steel_helm_37: 6285338703437093391
+      head_steel_helm_38: -464347527357292131
+      head_steel_helm_39: -1117328678347905434
+      head_steel_helm_4: -1428261964126513668
+      head_steel_helm_40: 8620202165283553616
+      head_steel_helm_41: -5776502143527387374
+      head_steel_helm_42: -1203778007767461630
+      head_steel_helm_43: -5478652091992221965
+      head_steel_helm_44: -8812916808535934527
+      head_steel_helm_45: 3328844416849282517
+      head_steel_helm_46: -7892517851996659857
+      head_steel_helm_47: -8573806590711857013
+      head_steel_helm_48: 1474926943272097468
+      head_steel_helm_49: 5058048528847731630
+      head_steel_helm_5: -8215916864747705821
+      head_steel_helm_50: 3123486945443887935
+      head_steel_helm_51: 294788341789185161
+      head_steel_helm_52: -8639194769474655825
+      head_steel_helm_6: -7030913399868000773
+      head_steel_helm_7: -3896033247740491784
+      head_steel_helm_8: -2148832614206823898
+      head_steel_helm_9: -6349102167206479911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

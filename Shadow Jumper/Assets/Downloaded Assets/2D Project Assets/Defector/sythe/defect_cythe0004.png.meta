@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      defect_cythe0004_0: -3388038700336486965
+      defect_cythe0004_1: -9062340507880494389
+      defect_cythe0004_2: -3489316027673790582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

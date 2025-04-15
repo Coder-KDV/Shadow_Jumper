@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      preview-sunny-mountains_0: 1729436631487412639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

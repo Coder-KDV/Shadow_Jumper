@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soldier_jump_003_0: -324811383924718054
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

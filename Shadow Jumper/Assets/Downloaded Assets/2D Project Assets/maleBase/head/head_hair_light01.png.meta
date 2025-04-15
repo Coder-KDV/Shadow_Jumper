@@ -1460,7 +1460,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      head_hair_light01_0: 3610005649502280706
+      head_hair_light01_1: -7227860723000136796
+      head_hair_light01_10: 864295186527291012
+      head_hair_light01_11: -1311788043567845534
+      head_hair_light01_12: 4587225827114017755
+      head_hair_light01_13: 3920816452880642644
+      head_hair_light01_14: 4255050969883724957
+      head_hair_light01_15: 8823937795496052889
+      head_hair_light01_16: 6068720005722964946
+      head_hair_light01_17: -3707686079672192014
+      head_hair_light01_18: 2245020882438457718
+      head_hair_light01_19: -707596982970825441
+      head_hair_light01_2: 3619804300739591368
+      head_hair_light01_20: -9176250615284445933
+      head_hair_light01_21: -7277010789230162033
+      head_hair_light01_22: -502652198465635818
+      head_hair_light01_23: 1154782881290058930
+      head_hair_light01_24: -1368722878165183337
+      head_hair_light01_25: -8117536485727432543
+      head_hair_light01_26: 1255987685177015822
+      head_hair_light01_27: 6427660653079814581
+      head_hair_light01_28: -1955564188779981817
+      head_hair_light01_29: -2270545357838106113
+      head_hair_light01_3: 3010992244935576726
+      head_hair_light01_30: -8643370228163007828
+      head_hair_light01_31: -4913148053521226613
+      head_hair_light01_32: 7171380615916080760
+      head_hair_light01_33: -2640336082232756903
+      head_hair_light01_34: -6717724809313221284
+      head_hair_light01_35: -8088955302640963792
+      head_hair_light01_36: -245760275896630021
+      head_hair_light01_37: 6427155808764736132
+      head_hair_light01_38: -7580154420928058677
+      head_hair_light01_39: 1222272931320101012
+      head_hair_light01_4: 1933974059106026932
+      head_hair_light01_40: -8694594339104128111
+      head_hair_light01_41: -1317817205764212832
+      head_hair_light01_42: -3593064213685117469
+      head_hair_light01_43: 349165938931102871
+      head_hair_light01_44: 2681510279345802235
+      head_hair_light01_45: -7771288253625480690
+      head_hair_light01_46: -5728983549616884862
+      head_hair_light01_47: -5474702333069312675
+      head_hair_light01_48: -903075151337418554
+      head_hair_light01_49: -7075138878445699270
+      head_hair_light01_5: 6004620872228842238
+      head_hair_light01_50: 7001407782225998297
+      head_hair_light01_51: -3365363009134355495
+      head_hair_light01_52: 3978555587255077729
+      head_hair_light01_6: 3087375242402683933
+      head_hair_light01_7: -2408440007556263405
+      head_hair_light01_8: -3184672650865895912
+      head_hair_light01_9: 5279764135298203482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

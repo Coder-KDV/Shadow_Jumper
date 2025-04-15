@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      defect_cythe0001_0: 8288725538459767653
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      goblin_2_crouch_002_0: -4636565283266214850
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

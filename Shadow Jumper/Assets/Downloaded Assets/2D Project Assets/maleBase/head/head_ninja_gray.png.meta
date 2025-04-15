@@ -1460,7 +1460,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      head_ninja_gray_0: -8431898852607760050
+      head_ninja_gray_1: 8737824202899422079
+      head_ninja_gray_10: 5365951852401708869
+      head_ninja_gray_11: -2511078301398084162
+      head_ninja_gray_12: 2942872865810028857
+      head_ninja_gray_13: -2378015847305765301
+      head_ninja_gray_14: -3201431570352818432
+      head_ninja_gray_15: 1341642142207785043
+      head_ninja_gray_16: 8350459119859045919
+      head_ninja_gray_17: 8570353580669516016
+      head_ninja_gray_18: 2912891081088966081
+      head_ninja_gray_19: 2519818573527795028
+      head_ninja_gray_2: -8229458035058035364
+      head_ninja_gray_20: 2943578223035580970
+      head_ninja_gray_21: 2035308389395198514
+      head_ninja_gray_22: -252294263393981621
+      head_ninja_gray_23: -8879983504535800741
+      head_ninja_gray_24: -3614216023623746420
+      head_ninja_gray_25: -7692582549811696023
+      head_ninja_gray_26: -5056023506610728724
+      head_ninja_gray_27: -8835950295194955035
+      head_ninja_gray_28: 1095715069550135441
+      head_ninja_gray_29: -7335663580550988077
+      head_ninja_gray_3: -7495831514893604645
+      head_ninja_gray_30: -3518232090527019502
+      head_ninja_gray_31: -1135188054782517918
+      head_ninja_gray_32: 402644389805147193
+      head_ninja_gray_33: -834307338224528540
+      head_ninja_gray_34: 1798992467062507931
+      head_ninja_gray_35: 5337453332469430041
+      head_ninja_gray_36: -7332726336106990947
+      head_ninja_gray_37: 6323199163296709350
+      head_ninja_gray_38: -798674739662916636
+      head_ninja_gray_39: -5386311112385611005
+      head_ninja_gray_4: 932300803578349862
+      head_ninja_gray_40: -1207621173842911607
+      head_ninja_gray_41: 9151131380636523547
+      head_ninja_gray_42: 8699780317599742821
+      head_ninja_gray_43: -8517059296728028080
+      head_ninja_gray_44: -6518188086395944954
+      head_ninja_gray_45: 2799165595668024929
+      head_ninja_gray_46: -5037128279930124059
+      head_ninja_gray_47: 1126185527806933078
+      head_ninja_gray_48: -2220618245853998951
+      head_ninja_gray_49: -7507432364485520573
+      head_ninja_gray_5: -5240930812351194958
+      head_ninja_gray_50: -7767904937956008373
+      head_ninja_gray_51: -1719179085435748080
+      head_ninja_gray_52: 2422480782477408980
+      head_ninja_gray_6: -4817629275920828089
+      head_ninja_gray_7: -4840268903468686675
+      head_ninja_gray_8: -171406069291708354
+      head_ninja_gray_9: 7048942438766601739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gargoyle_die_007_0: 5080604711846619932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      princess_die_004_0: 2426344300665730067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

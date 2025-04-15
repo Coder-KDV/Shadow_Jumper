@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gargoyle_fly_003_0: 6491422325582400798
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

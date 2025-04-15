@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      decfect_readys0038_0: 7986502447661659349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

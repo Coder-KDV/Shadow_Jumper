@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      barbarian_1_crouch_002_0: 8789235198157073986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
