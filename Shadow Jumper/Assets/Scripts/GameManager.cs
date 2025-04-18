@@ -21,6 +21,14 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            ExitGame();
+        }
+    }
+
     private void Start()
     {
         respawnPoint = PlayerRigidbody.transform.position;
@@ -36,5 +44,10 @@ public class GameManager : MonoBehaviour
     {
         PlayerRigidbody.transform.position = respawnPoint;
         PlayerRigidbody.transform.localScale = respawnDirection;
+    }
+
+    private void ExitGame()
+    {
+        Application.Quit();
     }
 }
